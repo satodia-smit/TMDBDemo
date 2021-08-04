@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LowsApp</string>
+    <string name="lbl_one">Fragment One</string>
+    <string name="lbl_two">Fragment Two</string>
+    <string name="lbl_three">Fragment Three</string>
+    <string name="err_no_internet">No internet connection found.</string>
+    <string name="lbl_search_to_get_started">Search to get started</string>
+    <string name="lbl_no">No Data Available</string>
+
+</resources>

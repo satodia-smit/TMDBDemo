@@ -1,0 +1,11 @@
+gradle.properties
+
+ext {
+    APP_NAME = "Lowe's Demo"
+    APPLICATION_ID = "com.thehyper.coder"
+
+    BASE_URL = "https://api.themoviedb.org/3/"
+    ENDPOINT = BASE_URL // Developer
+
+    API_KEY = "0a40989350b02d12a597ed313d47d5bd"
+}
